@@ -7,8 +7,8 @@ var num = 100;
 console.log(num);
 console.log(typeof num);
 var object = {
-    nombre:"Juan",
-    apellido:"Perez",
+    nombre:"Paola",
+    apellido:"Lara",
     tel:"23456"
 }
 console.log(object);
