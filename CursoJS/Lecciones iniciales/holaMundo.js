@@ -42,7 +42,7 @@ console.log(typeof y)
 
 //Arrays
 
-var autos = ['BMW', 'Audi', 'Volvo']
+var autos = ['Porsche', 'Ferrari', 'Jeep']
 console.log(autos)
 console.log(typeof autos)
 
