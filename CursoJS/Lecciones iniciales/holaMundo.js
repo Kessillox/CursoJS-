@@ -46,6 +46,10 @@ var autos = ['Porsche', 'Ferrari', 'Jeep']
 console.log(autos)
 console.log(typeof autos)
 
+var autos2 = ['BMW', 'Audi', 'Jac']
+console.log(autos)
+console.log(typeof autos)
+
 var z = '';
 console.log(z)
 console.log(typeof z)
