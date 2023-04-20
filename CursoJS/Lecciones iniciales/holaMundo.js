@@ -17,7 +17,7 @@ function funcion (){}
 console.log(funcion)
 console.log(typeof funcion)
 
-var simbolo = Symbol("me simbolo");
+var simbolo = Symbol("Los que se aferran a la vida, mueren");
 
 console.log(simbolo)
 console.log(typeof simbolo)
