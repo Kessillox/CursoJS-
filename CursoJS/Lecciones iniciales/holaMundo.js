@@ -46,6 +46,8 @@ var autos = ['Porsche', 'Ferrari', 'Jeep']
 console.log(autos)
 console.log(typeof autos)
 
+
+//TODO borrar var autos2
 var autos2 = ['BMW', 'Audi', 'Jac']
 console.log(autos)
 console.log(typeof autos)
