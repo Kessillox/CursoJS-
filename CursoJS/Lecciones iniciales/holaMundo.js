@@ -1,0 +1,51 @@
+//Tipos de Datos en JS
+
+var nombre = "Pipe";
+console.log(nombre);
+console.log(typeof nombre);
+var num = 100;
+console.log(num);
+console.log(typeof num);
+var object = {
+    nombre:"Juan",
+    apellido:"Perez",
+    tel:"23456"
+}
+console.log(object);
+
+function funcion (){}
+console.log(funcion)
+console.log(typeof funcion)
+
+var simbolo = Symbol("mi simbolo");
+
+console.log(simbolo)
+console.log(typeof simbolo)
+
+class Persona{
+    constructor(nombre, apellido){
+        this.nombre = nombre;
+        this.apellido = apellido;
+    }
+} 
+
+console.log(Persona)
+console.log(typeof Persona)
+
+var x
+console.log(x)
+console.log(typeof x)
+
+var y = null;
+console.log(y)
+console.log(typeof y)
+
+//Arrays
+
+var autos = ['BMW', 'Audi', 'Volvo']
+console.log(autos)
+console.log(typeof autos)
+
+var z = '';
+console.log(z)
+console.log(typeof z)
