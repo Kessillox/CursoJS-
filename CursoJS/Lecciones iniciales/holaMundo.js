@@ -1,6 +1,6 @@
 //Tipos de Datos en JS
 
-var nombre = "Pipe";
+var nombre = "Felipe";
 console.log(nombre);
 console.log(typeof nombre);
 var num = 100;
