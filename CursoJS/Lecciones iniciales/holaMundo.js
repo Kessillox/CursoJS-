@@ -9,7 +9,7 @@ console.log(typeof num);
 var object = {
     nombre:"Paola",
     apellido:"Lara",
-    tel:"23456"
+    tel:"567802"
 }
 console.log(object);
 
